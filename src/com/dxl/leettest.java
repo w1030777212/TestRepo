@@ -55,7 +55,7 @@ public class leettest {
 
     public static void main(String[] args) {
         leettest l = new leettest();
-        System.out.println(l.minWindow("a", "aaa"));;
+        System.out.println(l.minWindow("a", "aaaa"));;
 
     }
 }
